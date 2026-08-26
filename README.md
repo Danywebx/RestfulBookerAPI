@@ -48,13 +48,13 @@ Se diseñaron e implementaron escenarios de prueba automatizados secuenciales pa
 - Haz clic en **Run** para ejecutar las 6 peticiones en secuencia automática y verificar los resultados en verde.
 
 
-## ✒️ Autores
+## Autores ✒️
 
 Proyecto desarrollado por como parte de mi portafolio técnico de **Quality Assurance (API Testing)**.
 
 - Daniel/[@danywebx](https://www.github.com/danywebx)
 
 
-## 📄 Licencia
+## Licencia 📄
 
 Este proyecto tiene fines estrictamente académicos, de práctica técnica y demostración de habilidades QA.
